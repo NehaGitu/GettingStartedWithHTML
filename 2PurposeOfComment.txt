@@ -1,0 +1,27 @@
+Comments in HTML serve as a means to include notes or explanations within the code that aren't rendered or displayed in the web browser. They're primarily for developers or anyone working on the codebase to understand specific sections, add reminders, or temporarily disable portions of code without deleting them.
+
+In HTML, comments are denoted by <!-- to start the comment and --> to end it. Here's an example of how you can add comments in an HTML document:
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Webpage</title>
+</head>
+<body>
+  <h1>Welcome to my webpage</h1>
+  
+  <!-- This is a comment explaining the purpose of the paragraph below -->
+  <p>This paragraph contains important information about our services.</p>
+  
+  <!-- 
+    This is a multiline comment.
+    You can write multiple lines of comments within these tags.
+    Comments are useful for leaving notes or temporarily disabling code.
+  -->
+  
+  <p>Another paragraph with content.</p>
+</body>
+</html>
+
+
+In this example, the comments are used to explain the purpose of the paragraph and to create a multiline comment that spans multiple lines. Comments are ignored by web browsers and are there purely for developers' reference.

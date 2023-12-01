@@ -1,0 +1,31 @@
+Write a short note on Tag and element with an example?
+
+
+HTML, tags and elements are fundamental components that structure and define content within a webpage.
+
+Tags:
+
+Tags are markers used to define elements within HTML.
+They consist of an opening tag (<tagname>) and a closing tag (</tagname>), with content placed between them.
+Tags can also be self-closing, containing no content within them and ending with a forward slash (<tagname />).
+Examples:
+<p>This is a paragraph element</p>
+
+<p> is the opening tag, </p> is the closing tag.
+The content "This is a paragraph element" is enclosed within the tags, creating a paragraph element.
+
+Elements:
+
+Elements are created by the combination of opening and closing tags, along with the content they enclose.
+They represent specific types of content or structures within an HTML document.
+Elements may contain attributes within their opening tags to provide additional information or functionality.
+
+Element:
+<a href="https://example.com">This is a link</a>
+
+<a> is the opening tag, </a> is the closing tag.
+The content "This is a link" represents the visible text.
+The href attribute within the opening tag defines the destination URL of the link.
+
+
+In summary, tags define the structure and behavior of elements, while elements are the building blocks of HTML formed by pairs of tags enclosing content. They work together to create the structure and presentation of content within webpages.
